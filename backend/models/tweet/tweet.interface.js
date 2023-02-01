@@ -1,0 +1,1 @@
+// Este archivo define los campos que tiene modelo (base de datos) usuario

@@ -1,0 +1,1 @@
+// Funciones que atacan directamente a la base de datos
